@@ -8,7 +8,7 @@ In this project we work towards indentifying if geographical location is a deter
 ### Data Used
 To investigate the three factors determining health listed above, we were able to find the majority of our data through statistics Canada. We included the following data sets in our analysis:
 * *Total Population* by City: https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710007801 (CSV)
-* *Health Indicators* by City: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310080501 (C
+* *Health Indicators* by City: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310080501 
 * *Number of Deaths* by City: https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710007901#timeframe
 * *Median Income* by City: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110000801&pickMembers%5B0%5D=1.42
 * *Physician* by CMA: https://www.cma.ca/physician-data-centre
